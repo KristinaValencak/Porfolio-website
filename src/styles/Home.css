@@ -1,0 +1,54 @@
+section.container1 {
+    background-color: var(--bgDark);
+}
+.home{
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--bgDark);
+    max-width: 1152px;
+    margin: 0 auto;
+    
+    
+    }
+    
+    .home .image img{
+       width: 400px;
+       margin-left: 2rem;
+    }
+       .home .Me{
+        color: var(--white);
+        margin-top: -7rem;
+        
+    }
+       .home .Me h6{
+        font-size:1.6rem;
+        color: var(--primary);
+        margin-bottom: -2rem;
+    }
+    .home .Me h1{
+        font-size: 4rem;
+        font-weight: 600;
+        line-height: 1.2;
+        margin-bottom: 2rem;
+        color: var(--bgLight);
+    }
+    .home .Me h1 span{
+        color: var(--primary);
+    
+    }
+    .Me{
+        flex: 1;
+    }
+    
+    .image{
+        flex: 1;
+        justify-content: center;
+    }
+    .home .Me p{
+        line-height: 1.9;
+        margin-bottom: 2rem;
+        font-size: 1.25rem;
+    }

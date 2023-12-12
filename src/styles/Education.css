@@ -1,0 +1,41 @@
+section.education {
+    background-color: var(--white);
+}
+
+.education-head {
+    
+    text-align: center;
+    margin-bottom: 8rem;
+    line-height: 0.5rem;
+    color: var(--primary);
+    font-size: 3rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+}
+
+.container5{
+    background-color: var(--bgDark);
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    max-width: 1152px;
+    margin: 0 auto;
+    padding: 50px 50px;
+    
+}
+
+.container5:hover {
+    background-color: var(--primary);
+
+}
+.container5:hover p {
+    color: var(--bgDark);
+}
+
+.container5 p {
+    font-family: 'Lato', sans-serif;
+    color: var(--white);
+    line-height: 1.6;
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+}

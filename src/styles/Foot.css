@@ -1,0 +1,31 @@
+
+.Foot {
+    
+    background-color: var(--bgDark);
+    color: var(--white);
+    padding: 40px 0 40px 0;
+    text-align: center;
+   
+}
+
+.Pages a {
+    color: var(--white);
+    padding: 1.5rem;
+    font-size: 1.25rem;
+
+}
+.Pages a:hover {
+    color: var(--primary);
+   
+}
+.mediaFooter a {
+    padding: .5rem;
+}
+
+.mediaFooter {
+    margin-top: 2.5rem;
+}
+
+
+
+
