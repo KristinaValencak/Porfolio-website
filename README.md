@@ -1,4 +1,4 @@
-# Porfolio-website
+# Portfolio-website
 Personal portfolio website.
 ![Screenshot 2023-12-12 175031](https://github.com/KristinaValencak/Porfolio-website/assets/153623012/ce12c97b-de85-4369-bd9b-2c92baadb9ca)
 ![image](https://github.com/KristinaValencak/Porfolio-website/assets/153623012/262b14c1-c27b-40a5-acd2-7e67766aca3f)
