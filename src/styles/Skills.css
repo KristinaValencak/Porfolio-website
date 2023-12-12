@@ -6,6 +6,7 @@ section.skills {
 .skills-head {
     color: rgb(10, 9, 9);
     text-align: center;
+    margin-top: 1rem;
     margin-bottom: 7rem;
     line-height: 0.5rem;
     color: var(--primary);
